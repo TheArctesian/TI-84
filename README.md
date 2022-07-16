@@ -1,7 +1,8 @@
-# { PROJECT NAME }
+# TI-84
 
 ## Overview
 
+A collection of TI-84 programs
 ## Info
 
 ```
